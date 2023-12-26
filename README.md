@@ -10,9 +10,9 @@ A Flutter project.
 <p>MSSV: <strong>B1910227</strong></p>
 
 <h3>ỨNG DỤNG DI ĐỘNG QUẢN LÝ TIÊM CHỦNG CHO TRẺ EM</h3>
-
-<img src="./assets/demo/login.png" />
 <br>
-<img src="./assets/demo/main.png" />
+<img src="./assets/demo/login.png" width="400px"/>
 <br>
-<img src="./assets/demo/children.png" />
+<img src="./assets/demo/main.png" width="400px"/>
+<br>
+<img src="./assets/demo/children.png" width="400px"/>
